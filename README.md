@@ -1,7 +1,7 @@
 # Week3LabTDD
 
-[![Build Status](https://travis-ci.org/derek-repka/Week3LabTDD.svg?branch=TDD)](https://travis-ci.org/derek-repka/Week3LabTDD)
-[![codecov](https://codecov.io/gh/derek-repka/Week3LabTDD/branch/TDD/graph/badge.svg)](https://codecov.io/gh/derek-repka/Week3LabTDD)
+[![Build Status](https://travis-ci.org/derek-repka/Week3LabTDD.svg?branch=master)](https://travis-ci.org/derek-repka/Week3LabTDD)
+[![codecov](https://codecov.io/gh/derek-repka/Week3LabTDD/branch/master/graph/badge.svg)](https://codecov.io/gh/derek-repka/Week3LabTDD)
 
 The master branch contains the skeleton. 
 
