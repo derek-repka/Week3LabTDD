@@ -36,7 +36,7 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
-    public void TestcountAverageScore()
+    public void testcountAverageScore()
     {
     	Search mockSearch = mock(Search.class);
     	HashMap<String, ArrayList<Integer>> fakeMap = new HashMap<String, ArrayList<Integer>>();
@@ -67,7 +67,7 @@ public class AppTest
 
     }
     
-    public void TestfindTopScorer()
+    public void testfindTopScorer()
     {
     	Search mockSearch = mock(Search.class);
     	HashMap<String, ArrayList<Integer>> fakeMap = new HashMap<String, ArrayList<Integer>>();
